@@ -1,0 +1,15 @@
+.mainconatiner{
+    display: grid;
+    align-items: center;
+    
+    }
+
+    
+.register_form{
+    display: grid;
+    align-items: center;
+    margin-bottom: 20%;
+    }
+ .usertyperow{
+    margin-bottom: 15px;
+ }   

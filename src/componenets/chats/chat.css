@@ -1,0 +1,26 @@
+.chatfooter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chatwindow
+{
+  height: 40vh;
+  
+}
+.message{
+    display: flex;
+}
+.inputbar
+{
+    width: 400px;
+}
+.sender{
+    color: rgb(42, 185, 42);
+}
+.reciver{
+    color: rgb(60, 60, 166);
+}
+.reciverside{
+    margin-left: 600px;
+}

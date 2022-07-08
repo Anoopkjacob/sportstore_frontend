@@ -1,0 +1,42 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid rgb(17, 221, 92);
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: rgb(214, 238, 241);}
+  
+  table tr:hover { background-color: rgb(123, 200, 255);}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: rgb(76, 64, 209);
+  }
+
+  tfoot td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: white;
+    color: white;
+  }
+
+.searchbar{
+  border-color: aqua;
+  border-radius: 3px;
+  width:1000px;
+}
+
+.tablepagination{
+  /* display: flex; */
+  align-items: center;
+  justify-content: start;
+
+}
